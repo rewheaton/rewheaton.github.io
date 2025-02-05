@@ -9,10 +9,7 @@ navbar_entries:
     url: https://github.com/
 
 project_entries:
-  - title: Template 1
-    url: template-1-post
+  - title: AI and Emerging Technologies
+    url: ./week_01/ai-emerging-technologies
     desc: This is an example project, template 1
 
-  - title: Template 2
-    url: template-2-post
-    desc: This is an example project, template 2
