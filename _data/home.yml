@@ -1,15 +1,12 @@
 navbar_entries:
-  - title: website
-    url: https://www.cscc.edu/
-
   - title: LinkedIn
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/robwheaton/
 
   - title: GitHub
-    url: https://github.com/
+    url: https://github.com/rewheaton
 
 project_entries:
   - title: AI and Emerging Technologies
     url: week_01/ai-and-emerging-technologies
-    desc: This is an example project, template 1
+    desc: Week 1 assignment
 
