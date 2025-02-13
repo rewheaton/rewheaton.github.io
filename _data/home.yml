@@ -10,7 +10,7 @@ project_entries:
     url: week_01/ai-and-emerging-technologies
     desc: Week 1 assignment
 
-  - title: Machine Learning: The two steps that really matter 
+  - title: "Machine Learning: The two steps that really matter"
     url: week_02/machine_learning
     desc: Week 2 assignment
     
