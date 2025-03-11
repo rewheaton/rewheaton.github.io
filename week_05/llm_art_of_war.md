@@ -5,8 +5,7 @@ tags: [cscc]
 ---
 
 ### Art of War
-I chose [The Art of War](https://www.gutenberg.org/cache/epub/17405/pg17405.txt) by Sunzi from Project Gutenberg to discuss with [Gemini](https://gemini.google.com/) from Google. I chose this book because it's one of my favorites 
-and it's realitively short so I was confident that an LLM could analyze it in memory. I first asked Gemini to pull some quotes about retreating from the book and it did pretty well:
+I chose [The Art of War](https://www.gutenberg.org/cache/epub/17405/pg17405.txt) by Sun Tzu from Project Gutenberg to discuss with [Gemini](https://gemini.google.com/) from Google. I chose this book because it's one of my favorites and it's relatively short, so I was confident that an LLM could analyze it in memory. I first asked Gemini to pull some quotes about retreating from the book and it did pretty well:
 
 ```
 Sure, here are some quotes about retreating from the text:
@@ -19,10 +18,9 @@ Sure, here are some quotes about retreating from the text:
 "When envoys are sent with compliments in their mouths, it is a sign that the enemy wishes for a truce."    
 "The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom."
 ```
+A few of those quotes weren't actually about retreating yourself but rather about when your opponent does.
 
-A few of those weren't actually about retreating yourself but rather when your opponent does. 
-
-The second question I asked it was "Do you think this book has applications outside of warfare?" and the answer blew me away at first:
+The second question I asked it was, "Do you think this book has applications outside of warfare?" and the answer blew me away at first:
 
 ```
 
@@ -35,8 +33,7 @@ The principles of "The Art of War" can also be applied to personal relationships
 Overall, I think "The Art of War" is a valuable book that has applications outside of warfare.  The book's principles can be applied to a variety of fields, including business, law, and personal relationships.  If you are looking for a book that can help you to think strategically and to achieve your goals, "The Art of War" is a good place to start. 
 ```
 
-I felt like this was particularly impressive until I realized that this type of analysis has been done by countless students for decades and the LLM might just be repeating text that it was trained on. To test whether 
-the LLM was coming up with truly original content, I asked it "How do the principals of this book apply to cooking?":
+I felt like this was particularly impressive until I realized that this type of analysis has been done by countless students for decades and the LLM might just be repeating text that it was trained on. To test whether the LLM was coming up with truly original content, I asked it, "How do the principles of this book apply to cooking?":
 
 ```
 
