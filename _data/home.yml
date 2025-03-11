@@ -15,6 +15,10 @@ project_entries:
     desc: Week 2 assignment
     
   - title: Machine Learning and Search
-    url: week_02/machine_learning_and_search
-    desc: Week 2 assignment
+    url: week_03/teachable_machine
+    desc: Week 3 assignment
+
+  - title: LLMs and the Art of War
+    url: week_05/llm_art_of_war
+    desc: Week 5 assignment
 
