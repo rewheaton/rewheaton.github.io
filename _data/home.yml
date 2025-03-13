@@ -22,3 +22,7 @@ project_entries:
     url: week_05/llm_art_of_war
     desc: Week 5 assignment
 
+  - title: Machine Learning Bias
+    url: week_06/machine_learning_bias
+    desc: Week 6 assignment
+
