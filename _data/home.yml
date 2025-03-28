@@ -8,21 +8,21 @@ navbar_entries:
 project_entries:
   - title: AI and Emerging Technologies
     url: intro_to_machine_learning/week_01/ai-and-emerging-technologies
-    desc: Intro to Machine Learning: Week 1 assignment
+    desc: Intro to Machine Learning Week 1 assignment
 
   - title: "Machine Learning: The two steps that really matter"
     url: intro_to_machine_learning/week_02/machine_learning
-    desc: Intro to Machine Learning: Week 2 assignment
+    desc: Intro to Machine Learning Week 2 assignment
     
   - title: Machine Learning and Search
     url: intro_to_machine_learning/week_03/teachable_machine
-    desc: Intro to Machine Learning: Week 3 assignment
+    desc: Intro to Machine Learning Week 3 assignment
 
   - title: LLMs and the Art of War
     url: intro_to_machine_learning/week_05/llm_art_of_war
-    desc: Intro to Machine Learning: Week 5 assignment
+    desc: Intro to Machine Learning Week 5 assignment
 
   - title: Machine Learning Bias
     url: intro_to_machine_learning/week_06/machine_learning_bias
-    desc: Intro to Machine Learning: Week 6 assignment
+    desc: Intro to Machine Learning Week 6 assignment
 
