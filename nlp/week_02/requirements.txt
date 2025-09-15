@@ -1,0 +1,9 @@
+nltk
+spacy
+textblob
+pyarrow
+datasets
+numpy
+pandas
+nlplot
+nbformat
