@@ -1,0 +1,600 @@
+<|startoftext|>
+Q: Explain what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is tokenization in nlp?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is tokenization in NLP?
+A: Tokenization splits text into units like words or subwords.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is part-of-speech tagging?
+A: It labels words with grammatical tags like noun or verb.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is named entity recognition?
+A: NER finds entities like names and organizations in text.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is tf-idf?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is TF-IDF?
+A: TF-IDF scores words based on term frequency and document rarity.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is a neural network?
+A: It's a computational model inspired by the human brain.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is a large language model (llm)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is a large language model (LLM)?
+A: An LLM is a type of AI model trained on large-scale text data to perform various language tasks.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is the architecture of a transformer?
+A: A transformer uses self-attention mechanisms to model relationships between words in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is bert?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is BERT?
+A: BERT is a transformer-based model that understands language context using bidirectional attention.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is gpt?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is GPT?
+A: GPT is a generative language model trained to predict the next token in a sequence.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: Define what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what are generative models?
+A: Generative models learn to generate new data similar to their training data.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is self-attention in transformers?
+A: Self-attention allows each token to weigh the importance of other tokens in the input.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is the difference between gpt and bert?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is the difference between GPT and BERT?
+A: GPT is a generative model with unidirectional attention, while BERT is bidirectional and optimized for understanding.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is prompt engineering?
+A: Prompt engineering is crafting inputs to guide LLMs to produce desired outputs.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: Define what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what is fine-tuning in llms?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what is fine-tuning in LLMs?
+A: Fine-tuning adapts a pre-trained LLM to a specific task by continuing training on domain-specific data.
+<|endoftext|>
+<|startoftext|>
+Q: Explain what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: Define what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: Describe what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: What does it mean to what are embeddings in nlp?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: Clarify what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: Summarize what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: Give an explanation of what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: Illustrate what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: How would you define what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
+<|startoftext|>
+Q: What's meant by what are embeddings in NLP?
+A: Embeddings are vector representations of text that capture semantic similarity.
+<|endoftext|>
